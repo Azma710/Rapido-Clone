@@ -1,0 +1,229 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 25px;
+    flex-wrap: wrap;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+}
+li>a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-decoration-line: none;
+    color: black;
+}
+li>a:hover{
+    color: rgb(143, 131, 131);
+}
+header>img{
+    margin-left: 20px;
+}
+#mai{
+     background-image: url(	https://rapido-app-assets.storage.googleapis.com/66e1052cdca1e68cc52d070e8c9631aa_1736774712641.png);
+     width: 100%;
+     height: 400px;
+     margin-top: 10px;
+     padding-top: 20px;
+ }
+ form{
+    height: 300px;
+    width: 600px;
+    position:relative;
+    left: 35%;
+}
+#heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 50px;
+    margin-top: 4px;
+    font-size: 40px;
+}
+input{
+    border: none;
+    display: inline-block;
+    width: 92%;
+    flex-wrap: wrap;
+}
+.bg{
+    background-color: white;
+}
+.loc{
+    border:1px solid black;
+    border-radius:5px;
+    width: 400px;
+    padding:20px;
+    margin: 10px;
+}
+.location{
+    height: 20px;
+    width: 20px;  
+}
+#book{
+    width: 443px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: rgb(255,202,32);
+    color: black;
+    padding: 1rem;
+    border: none;
+    font-size: 20px;
+}
+.hori{
+    border: 2px solid rgb(255,202,32);
+    width: 15%;
+    margin-left: 0;
+    margin-top: 0;
+    padding-top: 0px;
+}
+#boxmain{ 
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    flex-wrap: wrap;
+}
+#div2{
+    margin:0 15%;
+}
+#demo{
+    background-color: rgb(244, 235, 235); 
+    position: absolute;
+    width: 100%;
+    height: 1200px;
+    margin-top: 20px;
+}
+#demo1{
+    margin:10% 15%;
+    font-size: 30px;
+    position: relative;
+}
+#heading2,#heading3{
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#ride,#start{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 40px;
+    height: 50px;
+    width: 200px;
+}
+#demo2{
+    margin: 5%;
+    position: absolute;
+    left: 50%;
+    top: 0%;
+}
+#demo3{
+    margin:0 15%;
+    position: absolute;
+}
+#hori1{
+    border: 2px solid rgb(255,202,32);
+    width: 15%;
+    margin-left: 0;
+    margin-top: 0;
+    padding-top: 0px;
+}
+#demo4{
+    margin: 5%;
+    position:relative;
+    left:50%;
+    font-size: 30px;
+}
+#demomain2{
+    background-color: white;
+    position: absolute;
+    margin-top: 10%;
+    width: 100%;
+}
+#demo5{
+    margin:10px 15%;
+    font-size: 30px;
+    position: relative;
+}
+#demo6{
+    margin: 20px 5%;
+    position: absolute;
+    left: 50%;
+    top: 0%;
+}
+#anc{
+    text-decoration-line: none;
+    font-weight: bold;
+    color: rgb(97, 97, 150);
+}
+#divmain1{
+    position: absolute; 
+    width: 100%;
+    margin-top: 38%;
+    background-color: black;
+    color: white;
+    height: 380px;
+}
+#heading5{
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+}
+#hori3{
+    border: 2px solid rgb(255,202,32);
+    width: 10%;
+}
+#divimg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+.ancho{
+    text-decoration-line: none;
+    color: white;
+    font-size: 30px;
+}
+.imgrap{
+    margin-left: 20%;
+}
+#demo9{
+    background-color: white;
+    margin-top: 70%; 
+}
+#divfoot{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    gap: 50px;   
+}
+#footdiv{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10% ;
+    gap: 100px;
+}
+#imgfoot{
+    margin:2% 0 2% 10%;
+}
+.footpage{
+    display: block;
+    text-decoration-line: none;
+    color: black;
+    padding: 10px;
+    font-size: 20px;   
+}
+#lastp{
+    border: 0px solid white;
+    height: 70px;
+    margin: 10px 50px 50px;
+    display: flex;
+    justify-content: center;
+    color: rgb(74, 65, 65);
+}
+
