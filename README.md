@@ -10,6 +10,6 @@ A static clone of **Rapido's** homepage built using **HTML** and **CSS** to repl
 - Fully static – HTML & CSS only.
 
 ## 📂 Project Structure
-- `rapido.html` → Main HTML file.
-- `rapido.css` → All styling for the project.
+- `index.html` → Main HTML file.
+- `style.css` → All styling for the project.
 
